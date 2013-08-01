@@ -1,4 +1,4 @@
-php-validator
+php-validaror
 =============
 
-php-validator
+Library aimed to validate PHP variables 
